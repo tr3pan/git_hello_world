@@ -1,2 +1,2 @@
 # git_hello_world
-Test repo
+Test repository for testing git features
